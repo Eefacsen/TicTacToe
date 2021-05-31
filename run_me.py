@@ -72,13 +72,10 @@ def win_check(board):
     return False
     
 # VARIABLES
-
 projectName = 'tictactoe'
 p = 1
 
-
 # MAIN LOOP
-
 def game_on():
     #Enable menu loop
     playing = True

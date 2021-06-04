@@ -2,6 +2,7 @@ import os
 import time
 
 # REMOVED ERROR LOG SYSTEM - not needed in small programme
+
 # FUNCTIONS
 
 def clear():

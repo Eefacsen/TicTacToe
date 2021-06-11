@@ -1,3 +1,7 @@
+"""
+Tic Tac Toe mini game
+"""
+
 import os
 import time
 
